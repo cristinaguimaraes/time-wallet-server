@@ -59,7 +59,7 @@ Next generate the Business Network Archive (BNA) file from the root directory:
 
 ```
 cd ../time-currency-network/
-composer archive create -t dir -n
+composer archive create -t dir -n .
 ```
 ## 4. Deploy to Fabric
 
