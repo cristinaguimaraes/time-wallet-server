@@ -28,7 +28,7 @@ This is the repo for the server and blockchain network for Time Wallet. For more
 
   Clone the `time-wallet-server code` locally. In a terminal, run:
 
-  `git clone https://github.com/redspanner/time-wallet-server.git`
+  `git clone https://github.com/cristinaguimaraes/time-wallet-server.git`
 
 ## 2. Setup Fabric
 
